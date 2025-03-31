@@ -35,4 +35,4 @@ TWSA          | cm     | Target variable             |
 1.  Data Preparation
 2.  Preprocessing:  `main.m`
 3.  Model Training: Execute `CNN_BiLSTM_BayesOpt.m`
-4.  Results Visualization: Run `plot_results.ipynb`
+4.  Results : Run `plot_results.ipynb`
