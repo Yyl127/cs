@@ -7,7 +7,6 @@ A spatiotemporal deep learning framework integrating CNN-BiLSTM with attention m
 - Bayesian optimization for hyperparameter tuning
 - Automated data preprocessing pipeline
 - Hydrological consistency validation modules
-- Drought monitoring integration (GRACE-DSI/SPEI)
 
 ## System Requirements
 
@@ -19,7 +18,7 @@ A spatiotemporal deep learning framework integrating CNN-BiLSTM with attention m
 | Storage        | 50 GB HDD            | 500 GB NVMe SSD     |
 
 ### Software
-- **MATLAB 2023a** or newer with:
+- **MATLAB 2021b** or newer with:
 - Deep Learning Toolbox
 - Statistics and Machine Learning Toolbox
 - Parallel Computing Toolbox
