@@ -1,6 +1,6 @@
 # GRACE Terrestrial Water Storage Downscaling Framework
 
-A spatiotemporal deep learning framework integrating CNN-BiLSTM with attention mechanisms for enhancing GRACE satellite data resolution from 1° to 0.1°.
+A spatiotemporal deep learning framework integrating CNN-BiLSTM with attention mechanisms for enhancing the resolution of GRACE satellite data.
 
 ## Key Features
 - Hybrid CNN-BiLSTM architecture with spatiotemporal attention
